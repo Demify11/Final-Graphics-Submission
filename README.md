@@ -1,4 +1,4 @@
-you are a criminal who
+You are a criminal who
 has been involved in various crimes and your only hope is to escape the police in your BMW M3.
 The general idea is the player needs to survive the police chase as long as possible. The longer
 the player lasts the higher the score they get.
